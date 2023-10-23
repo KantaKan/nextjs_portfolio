@@ -65,7 +65,7 @@ const EmailSection = () => {
         </div>
       </div>
       <div>
-        {emailSubmitted ? (
+        {/* {emailSubmitted ? (
           <p className="text-green-500 text-sm mt-2">
             Email sent successfully!
           </p>
@@ -124,7 +124,7 @@ const EmailSection = () => {
               Send Message
             </button>
           </form>
-        )}
+        )} */}
       </div>
     </section>
   );
