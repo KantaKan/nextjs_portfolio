@@ -11,8 +11,8 @@ const projectsData = [
     description: "Exercise app for dev ",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/jsd5-team5/benom-frontend",
+    previewUrl: "https://benom-health-webapp-frontend.vercel.app/",
   },
   // {
   //   id: 2,
